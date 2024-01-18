@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WavetableSynthesizer</string>
+    <string name="wavetable">Wavetable</string>
+    <string name="frequency_value">300 Hz</string>
+    <string name="frequency">Frequency</string>
+    <string name="pitch_control">Pitch Control</string>
+    <string name="play">Play</string>
+    <string name="sine">Sine</string>
+    <string name="triangle">Triangle</string>
+    <string name="square">Square</string>
+    <string name="saw">Saw</string>
+</resources>
